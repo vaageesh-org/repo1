@@ -31,6 +31,7 @@
  * @category    Mage
  * @package     Mage_CatalogIndex
  * @author      Magento Core Team <core@magentocommerce.com>
+ * Added comments
  */
 class Mage_CatalogIndex_Model_Resource_Indexer extends Mage_Core_Model_Resource_Db_Abstract
 {
